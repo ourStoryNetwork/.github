@@ -1,5 +1,5 @@
 ```
-$ oSFw purpose-definition ourstory-bMO
+$ oSFw own-data ourstory-bMO
 ```
 ![ourStory Cover Photo - GitHub](https://user-images.githubusercontent.com/8133349/174460712-89850b05-3179-4aff-b7ef-146ab4e7335e.png)
 ourStory is an open source protocol for creating collaborative communities.
