@@ -1,7 +1,4 @@
-```
-$ oSFw own-data ourStory-bMO
-```
-![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/ae4b785d-f15d-47a7-82fe-3edda5d40f6e)
+![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/eaebb2f6-215d-45e5-af9c-7687536eda18)
 <!-- **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
