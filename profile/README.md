@@ -1,9 +1,7 @@
 ```
 $ oSFw own-data ourStory-bMO
 ```
-![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/e4e7792a-92ee-4d72-905a-60d86e342f28)
-ourStory is an open source protocol for creating collaborative communities.
-
+![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/ae4b785d-f15d-47a7-82fe-3edda5d40f6e)
 <!-- **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
