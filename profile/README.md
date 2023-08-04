@@ -1,7 +1,7 @@
 ```
 $ oSFw own-data ourStory-bMO
 ```
-![ourStory - GitHub Cover Photo_INTER](https://user-images.githubusercontent.com/8133349/175181465-a274f766-5f59-4b4e-ae19-70f82a17b11f.png)
+![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/e4e7792a-92ee-4d72-905a-60d86e342f28)
 ourStory is an open source protocol for creating collaborative communities.
 
 <!-- **Here are some ideas to get you started:**
