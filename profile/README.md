@@ -1,4 +1,4 @@
-![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/2735fd42-0911-4311-bc47-9f92e41b89a6)
+![0 9 0_b27 ourStory_Platform Cover Photo_2023 08 08](https://github.com/ourStoryNetwork/.github/assets/8133349/273044b0-e120-4822-a968-80f1acfefbce)
 # ourStory is an open platform for creating [design engineer] portals
 Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to your institutions] and enables your [platform] teams to ship high-quality [projects] quickly — without compromising [creativity].
 
