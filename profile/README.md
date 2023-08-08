@@ -1,5 +1,5 @@
 ![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/2735fd42-0911-4311-bc47-9f92e41b89a6)
-### ourStory: Everything Is Music is an open platform for creating ecosystem portals
+# ourStory: Everything Is Music is an open platform for creating ecosystem portals
 Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to your institutions] and enables your [platform] teams to ship high-quality [projects] quickly — without compromising [imagination].
 
 <!-- **Here are some ideas to get you started:**
