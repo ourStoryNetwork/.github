@@ -1,6 +1,9 @@
 ![0 9 0_b27 ourStory_Platform Cover Photo](https://github.com/ourStoryNetwork/.github/assets/8133349/2735fd42-0911-4311-bc47-9f92e41b89a6)
-# ourStory: Everything Is Music is an open platform for creating [design engineer] portals
-Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to your institutions] and enables your [platform] teams to ship high-quality [projects] quickly — without compromising [imagination].
+# ourStory is an open platform for creating [design engineer] portals
+Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to your institutions] and enables your [platform] teams to ship high-quality [projects] quickly — without compromising [creativity].
+
+### We Pay Our Open Source Contributors (Kinda)
+Read through the proof-of-work proposal for [0.9 OnboardingPi] to learn how you can create your platform ecosystem and get paid for the contributions you make whether or not your suggestions/pull requests are integrated into our catalog. This is an open source project that we think is valuable, so we want to show gratitude to the everyone who helps it grow.
 
 <!-- **Here are some ideas to get you started:**
 
@@ -10,4 +13,3 @@ Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
