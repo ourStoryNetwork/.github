@@ -3,7 +3,7 @@
 Powered by a [decentralized storytelling catalog], [ourStory] [brings clarity to your institutions] and enables your [platform] teams to ship high-quality [projects] quickly — without compromising [creativity].
 
 ### Get Paid to Contribute
-Read through the proof-of-work proposal for [0.9 OnboardingPi] to learn how you can create your platform ecosystem and get paid for the contributions you make whether or not your suggestions/pull requests are integrated into our catalog. This is an open source project that we think is valuable, so we want to show gratitude to the everyone who helps it grow.
+Read through the proof-of-work proposal for [0.9 OnboardingPi] to learn how you can create your platform ecosystem and get paid for the contributions you make whether or not your suggestions/pull requests are integrated into our catalog. This is an open source project that we think is valuable, so we want to show gratitude to everyone who helps it grow.
 
 <!-- **Here are some ideas to get you started:**
 
