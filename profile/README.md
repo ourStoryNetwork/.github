@@ -1,3 +1,5 @@
+`This profile is inspired by LEANFoundry`
+
 ourStory provides documentation, courses, and community to help **One-person Businesses, Municipalities, STEM Programs, and Investors succeed** in creating SolarPunk Platform Ecosystems. 
 
 Start building your **SolarPunk City** systematically using oS3 (**openSource operatingSystem for ourStory**). 
